@@ -10,5 +10,6 @@ The generated trajectory follows the trapazoidal velocity profile as shown below
 The required trajectory has to pass through the following points
 
 point 1: (0,-0.8,0) at t=0
+
 point 2: (0,-0.8,0.5) at t=0.6
 
