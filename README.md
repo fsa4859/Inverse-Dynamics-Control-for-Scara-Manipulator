@@ -27,6 +27,13 @@ Anticipation of 0.2 seconds was applied to ensure smooth trajectory.
 
 ![image](https://user-images.githubusercontent.com/69100847/209341657-acbb05f6-45c6-49c6-b27f-3e04911d1e7e.png)
 
+### Velocity
+
+![image](https://user-images.githubusercontent.com/69100847/209341728-99b718ef-690a-44ad-ae35-16c2dfef9179.png)
+
+### Acceleration
+
+![image](https://user-images.githubusercontent.com/69100847/209341768-bbe281f2-cb9c-45b8-b087-4655c3d77955.png)
 
 
 
