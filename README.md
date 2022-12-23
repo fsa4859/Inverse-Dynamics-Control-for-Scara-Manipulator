@@ -36,4 +36,12 @@ Anticipation of 0.2 seconds was applied to ensure smooth trajectory.
 ![image](https://user-images.githubusercontent.com/69100847/209341768-bbe281f2-cb9c-45b8-b087-4655c3d77955.png)
 
 
+## Part 2
+
+The second part of the project consists of three main steps 
+
+* Feeding the generated trajectory to a second order inverse differential kinematics.
+* Derive the dynamics of SCARA manipulator.
+* Implement the inverse dynamics control scheme.
+
 
