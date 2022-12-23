@@ -6,3 +6,9 @@ This project involves trajectory generation in the operational space of the Scar
 The generated trajectory follows the trapazoidal velocity profile as shown below. 
 
 ![image](https://user-images.githubusercontent.com/69100847/209340568-b82fa752-71ca-4d13-b6a7-d6b57360d58f.png)
+
+The required trajectory has to pass through the following points
+
+point 1: (0,-0.8,0) at t=0
+point 2: (0,-0.8,0.5) at t=0.6
+
