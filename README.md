@@ -63,4 +63,9 @@ The figure below is the implemented inverse dynamics control scheme which decoup
 
 ![image](https://user-images.githubusercontent.com/69100847/210127444-b75e809a-5562-4ba6-9752-d250645b3b39.png)
 
+### Results
+
+![image](https://user-images.githubusercontent.com/69100847/210127523-73e8177c-14de-473b-b193-c001b5c0b507.png)
+
+
 
