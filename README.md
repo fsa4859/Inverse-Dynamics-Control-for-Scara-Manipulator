@@ -44,4 +44,9 @@ The second part of the project consists of three main steps
 * Derive the dynamics of SCARA manipulator.
 * Implement the inverse dynamics control scheme.
 
+### Second Order Inverse Differential kinematics
+
+![image](https://user-images.githubusercontent.com/69100847/210127217-d0fd055b-787b-4a54-bd82-7e6d7e66d415.png)
+
+
 
