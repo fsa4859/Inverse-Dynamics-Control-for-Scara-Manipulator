@@ -48,5 +48,8 @@ The second part of the project consists of three main steps
 
 ![image](https://user-images.githubusercontent.com/69100847/210127217-d0fd055b-787b-4a54-bd82-7e6d7e66d415.png)
 
+The second order inverse differntial kinematics generates reference joint values from the generated trajectory of the end effector. 
+
+![image](https://user-images.githubusercontent.com/69100847/210127353-e8ca0607-2981-406b-bb81-b59e580a1e93.png)
 
 
