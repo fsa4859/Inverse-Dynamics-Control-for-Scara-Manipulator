@@ -53,3 +53,14 @@ The second order inverse differntial kinematics generates reference joint values
 ![image](https://user-images.githubusercontent.com/69100847/210127353-e8ca0607-2981-406b-bb81-b59e580a1e93.png)
 
 
+### Inverse Dynamics Control Scheme
+
+The figure below is the implemented inverse dynamics control scheme which decouples and linearizes the system
+
+![image](https://user-images.githubusercontent.com/69100847/210127424-f9bb9d01-61d8-4852-871e-58d5e5b51503.png)
+
+#### SIMULINK Model
+
+![image](https://user-images.githubusercontent.com/69100847/210127444-b75e809a-5562-4ba6-9752-d250645b3b39.png)
+
+
